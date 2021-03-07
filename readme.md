@@ -24,6 +24,7 @@
 - Java 11 
 - Intellij Ultimate 2020.3
 - Spring Boot 2.4.3
+- I tried to use similar Technologies used in the Marked to make the demo little bit real.
 
 ### Installing 
 - Download the project from Github
