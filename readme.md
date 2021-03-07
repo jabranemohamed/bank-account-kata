@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/jabranemohamed/bank-account-kata.svg?branch=master)](https://travis-ci.org/github/jabranemohamed/bank-account-kata)
 [![codecov](https://codecov.io/gh/jabranemohamed/bank-account-kata/branch/master/graph/badge.svg)](https://codecov.io/gh/jabranemohamed/bank-account-kata)
 
-<p align="center">
+<p align="left">
     <a alt="Java">
         <img src="https://img.shields.io/badge/Java-v11-orange.svg" />
     </a>
@@ -24,7 +24,7 @@
 - Java 11 
 - Intellij Ultimate 2020.3
 - Spring Boot 2.4.3
-- I tried to use similar Technologies used in the Marked to make the demo little bit real.
+- I tried to use similar technologies used in the Marked to make the demo little bit real.
 
 ### Installing 
 - Download the project from Github
@@ -32,16 +32,15 @@
 - Execute the main class **BankAccountKataApplication** using **_demo_** profile as an argument in Intellij
 
 ### Result and Demo
-- You can see the exercice resulat in the console or in browser 
-- Import the project in Intellij
-- Execute the main class **BankAccountKataApplication**
+- You can see the exercice result in the console or in browser 
 
 ### Some Screenshot
 - Result in the console
   <img src="https://github.com/jabranemohamed/bank-account-kata/blob/master/img/console.png" alt="console">
   <img src="https://github.com/jabranemohamed/bank-account-kata/blob/master/img/console2.png" alt="console">
 
-- Result in the console
+- Result in the Browser
+  - use the following URL http://localhost:8080/h2-console
   <img src="https://github.com/jabranemohamed/bank-account-kata/blob/master/img/account.png" alt="account">
   <img src="https://github.com/jabranemohamed/bank-account-kata/blob/master/img/transaction.png" alt="transaction">
 
