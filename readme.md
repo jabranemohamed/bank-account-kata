@@ -1,5 +1,6 @@
 # SG Bank Account Kata exercice
-
+[![Build Status](https://travis-ci.org/jabranemohamed/bank-account-kata.svg?branch=master)](https://https://travis-ci.org/github/jabranemohamed/bank-account-kata)
+[![codecov](https://codecov.io/gh/jabranemohamed/bank-account-kata/branch/master/graph/badge.svg)](https://codecov.io/gh/jabranemohamed/bank-account-kata)
 
 <p align="center">
     <a alt="Java">
